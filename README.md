@@ -4,9 +4,6 @@
    
    <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there, I'm <a href="https://dazzling-dijkstra-8e10ca.netlify.app">Malik Taimoor Ali Khan</a><img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="40px" height="40px"  /> 
   </h1>
-   
- <p><em>Software Engineer at <a href="https://www.ciklum.com/">ciklum.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>  
   
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20Software%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=580&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
@@ -24,11 +21,13 @@ class Taimoor extends Person{
 
   getDailyKnowledge() {
     return [
+     "Bootstrap",
+     "Tailwindcss",
      "Scss",
      "Javascript",
      "Typescript",
      "ReactJs",
-     "Tailwindcss",
+     "NextJs",
      "AWS"
     ]
   }
@@ -61,14 +60,6 @@ class Taimoor extends Person{
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
-
-<br />
-
-## 🔍 Where to find me
-
-https://img.shields.io/badge/-Taimoor%20Ali-lightgrey?style=flat&logo=stackoverflow&logoColor=white&link=[https://stackoverflow.com/users/9515440/taimoor-ali](https://stackoverflow.com/users/9515440/taimoor-ali)](https://stackoverflow.com/users/9515440/taimoor-ali)](https://stackoverflow.com/users/9515440/taimoor-ali)/]([https://www.linkedin.com/in/taimoor-ali-khan-29804627a/](https://stackoverflow.com/users/9515440/taimoor-ali))
-https://img.shields.io/badge/-Taimoor%20Ali-blue?style=?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/taimoor-ali-khan-29804627a](https://www.linkedin.com/in/taimoor-ali-khan-29804627a/)/]([www.linkedin.com/in/taimoor-ali-khan-29804627a](https://www.linkedin.com/in/taimoor-ali-khan-29804627a/)/)
-https://img.shields.io/badge/Taimoor-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ataimoor387@gmail.com](mailto:ataimoor387@gmail.com)
 
 <br />
 
